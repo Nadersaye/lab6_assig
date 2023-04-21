@@ -75,8 +75,10 @@ class _Basketball_points_counterState extends State<Basketball_points_counter> {
                Container(
                 height: 450,
                 child: VerticalDivider(
-                  thickness: 3,
-                  indent: 50,
+                  thickness: 2,
+                  indent: 30,
+                  endIndent: 20,
+                  
                 ),
               ),
              Container(
